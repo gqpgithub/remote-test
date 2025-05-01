@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-啊远程
-=======
-啊本地
->>>>>>> Stashed changes
+本地
 1231245
 remotre
 
